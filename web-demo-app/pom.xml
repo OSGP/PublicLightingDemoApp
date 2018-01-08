@@ -8,8 +8,8 @@
   <artifactId>web-demo-app</artifactId>
   <name>osgp-web-demo-app</name>
   <packaging>war</packaging>
-  <!-- Description, Organization, Licenses, URL and Distribution Management elements are needed for the maven-jxr-plugin 
-    to generate a maven site -->
+  <!-- Description element is needed for the maven-jxr-plugin to generate 
+    a maven site -->
   <description>Web Demo App for the OSGP Platform</description>
 
   <parent>
