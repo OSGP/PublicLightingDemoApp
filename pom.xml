@@ -13,8 +13,8 @@
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>os-webapps</artifactId>
-  <groupId>org.osgpfoundation.osgp</groupId>
-  <version>4.29.0</version>
+  <groupId>org.opensmartgridplatform</groupId>
+  <version>4.30.0</version>
   <packaging>pom</packaging>
 
   <properties>
